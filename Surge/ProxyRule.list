@@ -2,6 +2,8 @@
 # AUTHOR: Sunhelter
 # REPO: https://github.com/Sunhelter/Sunhelter
 # UPDATED: 2023-08-11 11:13:20
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,themoviedb.org
