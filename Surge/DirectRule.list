@@ -1,7 +1,10 @@
 # NAME: Rules
 # AUTHOR: Sunhelter
 # REPO: https://github.com/Sunhelter/Sunhelter
-# UPDATED: 2023-08-11 11:13:20
+# UPDATED: 2024-01-31 01:13:20
 DOMAIN-SUFFIX,mydrive.sunhelter.com
 DOMAIN-SUFFIX,mydrive-local.sunhelter.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,qkxwdt.xyz
+DOMAIN-SUFFIX,tagcdnsub.work
 DOMAIN-SUFFIX,yysubs.com
