@@ -1,10 +1,11 @@
 # NAME: Rules
 # AUTHOR: Sunhelter
 # REPO: https://github.com/Sunhelter/Sunhelter
-# UPDATED: 2024-01-31 01:13:20
+# UPDATED: 2026-03-19 11:53:26
 DOMAIN-SUFFIX,mydrive.sunhelter.com
 DOMAIN-SUFFIX,mydrive-local.sunhelter.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,yysubs.com
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
